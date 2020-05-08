@@ -1,6 +1,6 @@
 # Toast Like Message Badge Widget
 
-[![Pub](https://img.shields.io/pub/v/toast_badge.svg)](https://pub.dartlang.org/packages/flutter_slidable)
+[![Pub](https://img.shields.io/pub/v/toast_badge.svg)](https://pub.dev/packages/toast_badge)
 
 
 ![](arts/toast_badge.gif)
