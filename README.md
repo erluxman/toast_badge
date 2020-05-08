@@ -6,7 +6,7 @@
 
 With toast_badge we can simply call 
 
-    Toast.show("Hello world");
+    ToastBadge.show("Hello world");
 From anywhere in the app and it will show Toast like shown in the Image Above.
 
 While also being able to place it right in the place where you want it.
