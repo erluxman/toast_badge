@@ -25,7 +25,7 @@ While also being able to place it right in the place where you want it.
    
    a. Just Wrap any Widget with **ToastWidget()** like this 
 
-        child: ToastWidget(
+        child: ToastBadge(
             child: SettingPage(),
         ),
 
